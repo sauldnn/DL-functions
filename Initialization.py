@@ -71,3 +71,5 @@ def initialize_parameters_he(layers_dims):
         
         
     return parameters
+
+# This is a comment 
